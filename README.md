@@ -1,4 +1,4 @@
-# [Result School] Крестики-Нолики
+# [Result School] Крестики-Нолики [![Github Pages Deploy](https://github.com/gedjerone/result-school-react-02/actions/workflows/main.yml/badge.svg)](https://github.com/gedjerone/result-school-react-02/actions/workflows/main.yml)
 ## *[Билд доступен по ссылке](https://gedjerone.github.io/result-school-react-02/)*
 
 ## Dependencies
